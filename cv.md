@@ -19,8 +19,7 @@ I’m currently working several small web projects. My goal is to learn everythi
 
 * HTML
 * Python
-* PyCharm
-* Visual Studio Code
+* PyCharm Visual Studio Code
 * NumPy, Random, termcolor, zipfile, os, time, shutil, simpleDraw, collections, functools, threading, open CV
 * Git 
 * HTML
