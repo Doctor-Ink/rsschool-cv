@@ -1,13 +1,13 @@
 # **Aliaksei Biazusau**
 
 
-## Contacts
+## My Contact info
 
-* Address: Belarus, Vitebskaya obl.city Glubokoe
-* E-mail: bezusovalex@gmail.com, bezusov.88@mail.ru
+* Address: Belarus, Vitebskaya obl.city Glubokoe, str. Mikhajlovskaya 22
+* E-mail: bezusovalex@gmail.com,
+        + bezusov.88@mail.ru
 * Phone +375292112704 
 * GitHub: Doctor-Ink 
-* Telegram: @aretooth
 
 
 ## Summary
@@ -17,10 +17,12 @@ I’m currently working several small web projects. My goal is to learn everythi
 
 ## Skills
 
-* Web-development: HTML5, CSS3, JavaScript, Python
-* Frameworks and libraries: NumPy, Random, termcolor, zipfile, os, time, shutil, simpleDraw, collections, functools, threading, open CV
-* Version control: GIT, Github
-* Additionally: PyCharm, Visual Studio Code
+* HTML
+* Python
+* PyCharm Visual Studio Code
+* NumPy, Random, termcolor, zipfile, os, time, shutil, simpleDraw, collections, functools, threading, open CV
+* Git 
+* HTML
 
 
 ### Code examples
@@ -46,13 +48,12 @@ print(binary_search(list=my_list, item=-1))
 ```
 
 
-## Education
-* Industrial engineering BNTU (Belarusian National Technical University)
-* Skillbox - Python Development Courses
-
-
 ## Languages
 
-* Belarusian - Native
-* Russian - Native
-* English — A2 — Pre-Intermediate
+* Belarusian
+* Russian 
+
+
+## English
+
+* Elementary (A2)
