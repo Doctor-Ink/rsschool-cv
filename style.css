@@ -1,5 +1,7 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    border: 0;
 }
 
 html {
@@ -11,14 +13,68 @@ h1 {
   font-size: 40px;
 }
 
+.photo {
+  border-radius: 50px;
+}
+
+.photoLine {
+  margin-top: 20px;
+  display: flex;
+  justify-content:space-evenly;
+  background-color: #fff;
+  margin-bottom: 50px;
+  
+}
+.photo-flex {
+  background-color: #fff;
+}
+.surname {
+  background-color: #fff;
+  align-self: center;
+}
 .header {
     background-color: #88fa99;
+    width: 100%;
     position: relative;
     display: flex;
-    justify-content: space-between;
+    justify-content:space-evenly;
     flex-direction: column;
   }
+.secondLine {
+  background-color: #fff;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 50px;
+}
+.codebox {
+  width: 40%;
+}
+.contacts {
+  margin-left: 10%;
+}
+.summary {
+  width: 45%;
+}
+.programming {
+  display: inline-flex;
+  background-color: #fff;
+}
+.skills {
+  margin-left: 10%;
+  width: 45%;
+}
+.lastLine {
+  display: inline-flex;
+  width: 100%;
+  background-color: #fff;
+  justify-content: space-evenly;
+  margin-bottom: 50px;
 
+}
+.projects {
+  margin-left: 10%;
+  width: 20%;
+}
 body {
     font-family: 'Cardo', serif;
     font-size: 18px;
@@ -62,4 +118,16 @@ body {
     justify-content: flex-end;
     align-items: center;
     list-style: none;
+}
+
+.containerFooter {
+  width: 100%;
+  display: inline-flex;
+  justify-content:space-evenly;
+  background-color: #88fa99;
+
+}
+.footer__img {
+  width: 86px;
+  height: 32px;
 }
