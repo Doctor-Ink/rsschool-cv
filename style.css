@@ -41,13 +41,16 @@ h1 {
   margin-bottom: 50px;
   
 }
+
 .photo-flex {
   background-color: #fff;
 }
+
 .surname {
   background-color: #fff;
   align-self: center;
 }
+
 .header {
     background-color: #88fa99;
     width: 100%;
@@ -55,44 +58,52 @@ h1 {
     display: flex;
     justify-content:space-evenly;
     flex-direction: column;
-  }
+}
+
 .secondLine {
   background-color: #fff;
   display: flex;
   justify-content: space-between;
   margin-bottom: 50px;
 }
+
 .codebox {
   width: 40%;
 }
+
 .contacts {
   margin-left: 10%;
 }
+
 .summary {
   width: 45%;
 }
+
 .programming {
   display: inline-flex;
   background-color: #fff;
+  justify-content: flex-end;
+  margin-left: 10px;
+  gap: 200px;
+  margin-bottom: 50px;
 }
+
 .skills {
-  margin-left: 10%;
+  margin-left: 12%;
   width: 45%;
 }
+
 .lastLine {
   display: inline-flex;
   width: 100%;
   background-color: #fff;
   justify-content: space-evenly;
   margin-bottom: 50px;
-
 }
 .projects {
   margin-left: 10%;
   width: 20%;
 }
-
-
 
 .container {
     max-width: 1440px;
@@ -115,7 +126,7 @@ h1 {
     line-height: 50px;
     color: rgb(7, 7, 7);
     transition: .3s;
-  }
+}
 
 .nav-list {
     display: flex;
@@ -138,7 +149,6 @@ h1 {
 
 .link-text {
   color: #13a0ce;
-
 }
 
 .link-git {
